@@ -1,7 +1,7 @@
 name: FeelGoodMG
 favicon: null
-layout_spectrum: 0.1593115865252912
-typography_spectrum: 0.19918074156157672
+layout_spectrum: 0.90727
+typography_spectrum: 0.30209
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5321732200682163
+    - '#002f73'
+    - '#acceeb'
+    - '#000080'
+    - '#ffffff'
+    - '#728cb3'
+  brandStrength: 0.5625
   lightness: 0.31621128786355257
   saturation: 0.21508705662563443
   rhythmicContrast: 0.11037463042885065
