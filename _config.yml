@@ -1,0 +1,28 @@
+name: FeelGoodMG
+favicon: null
+layout_spectrum: 0.1593115865252912
+typography_spectrum: 0.19918074156157672
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5321732200682163
+  lightness: 0.31621128786355257
+  saturation: 0.21508705662563443
+  rhythmicContrast: 0.11037463042885065
+purpose: []
